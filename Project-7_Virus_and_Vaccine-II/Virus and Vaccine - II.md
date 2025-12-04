@@ -1,11 +1,6 @@
 ###### **Virus and Vaccine- I SOLUTION is only the Boiler plate kit for Virus and Vaccine - II (second part)**
 
 
-
-**Project-3:  OTT Platform-III**
-
-
-
 **INSTRUCTIONS**:
 
 
